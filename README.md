@@ -6,7 +6,8 @@
 ## 项目中有apk可以测试查看
 
 ## 如何导入AndroidStudio中运行
-  ### 项目下载后导入后，
+  ### 项目下载后导入后，将下图中的百度地图秘钥替换成自己的
+  ![image](https://github.com/yangbeibei69/RunStart2/blob/master/%E5%9B%BE%E7%89%87/runstart_1.jpg)
 
 ## 主要功能有：
   ### 实时地图显示：（百度地图）
