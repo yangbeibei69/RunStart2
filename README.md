@@ -1,5 +1,6 @@
 # RunStart2
 一款的Android原生实现的跑步运动应用，除了界面丑点，步数，记时，地图，轨迹，存储数据库信息等功能都没问题
+  ![image](https://github.com/yangbeibei69/RunStart2/blob/master/%E5%9B%BE%E7%89%87/runStart2.png)
 
 ## 这个应用程序的界面确实丑了一点，功能经测试没什么问题
 
